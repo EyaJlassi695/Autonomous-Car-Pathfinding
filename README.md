@@ -6,7 +6,7 @@ This project implements a trajectory planning system using C++ for robots naviga
 
 - **Developers**: Aymen Ben Ammar, Eya Jlassi
 - **Supervisor**: Mme. Sonia Alouane
-- **Institution**: 2nd Year Advanced Techniques, 2023/2024
+- **Institution**: ENSTA Paris, 2023/2024
 
 This project explores C++ algorithms and data structures to plan optimal paths while taking into account obstacle constraints and environmental changes.
 
