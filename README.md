@@ -16,6 +16,10 @@ This project explores C++ algorithms and data structures to plan optimal paths w
 - **Obstacle Detection**: Integrates OpenCV to identify obstacle contours.
 - **User Interface**: Built with wxWidgets for a GUI, allowing users to upload environment maps and select start and end points.
 - **Visualization**: Displays the planned path and obstacles using SFML for graphical rendering.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cc5498e3-8669-4186-a393-d083657f422d" alt="Image 1" width="45%">
+  <img src="https://github.com/user-attachments/assets/4102421c-deb7-483f-8968-dfc8f8184a1d" alt="Image 2" width="45%">
+</p>
 
 ## Project Structure
 
